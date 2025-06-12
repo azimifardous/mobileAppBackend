@@ -3560,32 +3560,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\fardousazimi\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/Users/fardousazimi/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fardousazimi\\Desktop\\HrAppApi\\HrAppApi.csproj",
+      "projectUniqueName": "/Users/fardousazimi/Downloads/HrAppApi/HrAppApi.csproj",
       "projectName": "HrAppApi",
-      "projectPath": "C:\\Users\\fardousazimi\\Desktop\\HrAppApi\\HrAppApi.csproj",
-      "packagesPath": "C:\\Users\\fardousazimi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fardousazimi\\Desktop\\HrAppApi\\obj\\",
+      "projectPath": "/Users/fardousazimi/Downloads/HrAppApi/HrAppApi.csproj",
+      "packagesPath": "/Users/fardousazimi/.nuget/packages/",
+      "outputPath": "/Users/fardousazimi/Downloads/HrAppApi/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\fardousazimi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/fardousazimi/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
+        "/opt/homebrew/Cellar/dotnet/9.0.4/libexec/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -3604,7 +3597,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net9.0": {
@@ -3648,7 +3641,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/9.0.4/libexec/sdk/9.0.105/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -6,6 +6,6 @@
     "\\Models",
     "\\Properties"
   ],
-  "SelectedNode": "\\Controllers",
+  "SelectedNode": "\\Data\\AppDbContext.cs",
   "PreviewInSolutionExplorer": false
 }
