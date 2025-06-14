@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IMf+awGULBc=",
+  "dgSpecHash": "yhWC5wxQoFU=",
   "success": true,
-  "projectFilePath": "/Users/fardousazimi/Downloads/HrAppApi/HrAppApi.csproj",
+  "projectFilePath": "/Users/fardousazimi/Desktop/mobileApp/backend/HrAppApi.csproj",
   "expectedPackageFiles": [
     "/Users/fardousazimi/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/fardousazimi/.nuget/packages/microsoft.aspnetcore.openapi/9.0.5/microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",

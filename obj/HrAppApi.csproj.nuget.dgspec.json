@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/fardousazimi/Downloads/HrAppApi/HrAppApi.csproj": {}
+    "/Users/fardousazimi/Desktop/mobileApp/backend/HrAppApi.csproj": {}
   },
   "projects": {
-    "/Users/fardousazimi/Downloads/HrAppApi/HrAppApi.csproj": {
+    "/Users/fardousazimi/Desktop/mobileApp/backend/HrAppApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/fardousazimi/Downloads/HrAppApi/HrAppApi.csproj",
+        "projectUniqueName": "/Users/fardousazimi/Desktop/mobileApp/backend/HrAppApi.csproj",
         "projectName": "HrAppApi",
-        "projectPath": "/Users/fardousazimi/Downloads/HrAppApi/HrAppApi.csproj",
+        "projectPath": "/Users/fardousazimi/Desktop/mobileApp/backend/HrAppApi.csproj",
         "packagesPath": "/Users/fardousazimi/.nuget/packages/",
-        "outputPath": "/Users/fardousazimi/Downloads/HrAppApi/obj/",
+        "outputPath": "/Users/fardousazimi/Desktop/mobileApp/backend/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/fardousazimi/.nuget/NuGet/NuGet.Config"

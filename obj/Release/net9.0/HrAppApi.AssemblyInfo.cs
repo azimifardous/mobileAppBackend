@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HrAppApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a9b589febac82d4b72abb2ac214f88a56b2ed53")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eeeea282ab25a097f7a79699e6dfac096ca73c1f")]
 [assembly: System.Reflection.AssemblyProductAttribute("HrAppApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HrAppApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
