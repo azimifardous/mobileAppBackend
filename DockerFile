@@ -14,4 +14,5 @@ COPY --from=build /app/out .
 ENV ASPNETCORE_URLS=http://+:10000
 EXPOSE 10000
 
+# Set the entry point for the application
 ENTRYPOINT ["dotnet", "HrAppApi.dll"]
